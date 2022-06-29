@@ -184,7 +184,7 @@ async def start(client, message: Message, _):
         for user in users:
           served_users.append(int(user["bot_users"]))
         await message.reply(f"""
-[👋]({random.choice(IMG)}) Hey there {message.from_user.mention}, 
+[👋]({random.choice(IMG)}) ʜᴇʏ ᴛʜᴇʀᴇ {message.from_user.mention}, 
 
    ᴍʏ ɴᴀᴍᴇ ɪs ʙʜᴀɴᴜᴍᴀᴛʜɪ 💃 ,ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ʜᴇʟᴘ ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘs & sᴜɪᴛ ғᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅs. 
 
