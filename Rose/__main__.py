@@ -186,11 +186,12 @@ async def start(client, message: Message, _):
         await message.reply(f"""
 [👋]({random.choice(IMG)}) Hey there {message.from_user.mention}, 
 
-   My name is Rose, an  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs. 
-I currently manage about `{len(served_chats)}` groups.I have over `{len(served_users)}` users
+   ᴍʏ ɴᴀᴍᴇ ɪs ʙʜᴀɴᴜᴍᴀᴛʜɪ 💃 ,ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ʜᴇʟᴘ ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘs & sᴜɪᴛ ғᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅs. 
 
-⚒ Send Me /help For Get Commands. 
-👨‍💻Dᴇᴠᴇʟᴏᴘᴇʀ : @supunma
+🙈 ɪ ᴄᴜʀʀᴇɴᴛʟʏ ᴍᴀɴᴀɢᴇ ᴀʙᴏᴜᴛ `{len(served_chats)}` ɢʀᴏᴜᴘs. ɪ ʜᴀᴠᴇ ᴏᴠᴇʀ `{len(served_users)}` ᴜsᴇʀs
+
+😌 sᴇɴᴅ ᴍᴇ /help ғᴏʀ ɢᴇᴛ ᴄᴏᴍᴍᴀɴᴅs. 
+🌱 ᴏᴡɴᴇʀ : @mynameisgroot
 """,
             reply_markup=home_keyboard_pm,
         )
