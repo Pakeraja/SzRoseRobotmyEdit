@@ -121,7 +121,7 @@ keyboard = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="📚 Commands & help",
+                text="🙋‍♂️Commands & help🙋‍♂️",
                 url=f"t.me/{BOT_USERNAME}?start=help",
             )
         ]
