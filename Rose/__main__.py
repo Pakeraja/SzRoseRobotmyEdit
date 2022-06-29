@@ -87,31 +87,31 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text=" ➕ Add Me To Your Group ➕ ",
+                text=" 🌱 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🌱 ",
                 url=f"http://t.me/{BOT_USERNAME}?startgroup=new",
             )
         ],
         [
            InlineKeyboardButton(
-                text=" ℹ️ About", callback_data="_about"
+                text="💙ᴀʙᴏᴜᴛ💙", callback_data="_about"
             ),
             InlineKeyboardButton(
-                text="🌍 languages ", callback_data="_langs"
-            ),
-        ],
-        [
-            InlineKeyboardButton(
-                text="📮 How To Use Me", callback_data="bot_commands"
+                text="🇮🇳ʟᴀɴɢᴜᴀɢᴇs", callback_data="_langs"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🌐 My Website",
-                url=f"https://szrosebot.ml",
+                text="😌 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ 😌", callback_data="bot_commands"
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text=" 😇 sᴛɪᴄᴋᴇʀ ᴘᴀᴄᴋs 😇 ",
+                url=f"https://t.me/groot_network",
             ),
             InlineKeyboardButton(
-                text="🔰News Channel",
-                url=f"https://t.me/szroseupdates",
+                text="🧡 ғᴜɴɴʏ ɢɪғs 🧡",
+                url=f"https://t.me/rjbr0",
             )
         ],
     ]
@@ -128,11 +128,11 @@ keyboard = InlineKeyboardMarkup(
     ]
 )
 
-IMG = ["https://telegra.ph/file/c8f5c1dd990ca9a3d8516.jpg",
-       "https://telegra.ph/file/77cc3154b752ce822fd52.jpg",
-       "https://telegra.ph/file/e72fb0b6a7fba177cf4c7.jpg",
-       "https://telegra.ph/file/8738a478904238e367939.jpg",
-       "https://telegra.ph/file/68d7830ba72820f44bda0.jpg"
+IMG = ["https://te.legra.ph/file/9456e2f951dda6cf8eb1e.jpg",
+       "https://te.legra.ph/file/12930c893ee3db4622cbd.jpg",
+       "https://te.legra.ph/file/fd3efbc49ad442dc485c9.jpg",
+       "https://te.legra.ph/file/70c2495fb95ae47c1604b.jpg",
+       "https://te.legra.ph/file/7bd16e246343db1494892.jpg"
 ]
 
 @app.on_message(filters.command(START_COMMAND))
