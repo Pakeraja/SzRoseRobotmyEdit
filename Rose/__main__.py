@@ -191,7 +191,7 @@ async def start(client, message: Message, _):
 🙈 ɪ ᴄᴜʀʀᴇɴᴛʟʏ ᴍᴀɴᴀɢᴇ ᴀʙᴏᴜᴛ `{len(served_chats)}` ɢʀᴏᴜᴘs. ɪ ʜᴀᴠᴇ ᴏᴠᴇʀ `{len(served_users)}` ᴜsᴇʀs
 
 😌 sᴇɴᴅ ᴍᴇ /help ғᴏʀ ɢᴇᴛ ᴄᴏᴍᴍᴀɴᴅs. 
-🌱 ᴏᴡɴᴇʀ : [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)
+🤨 ᴏᴡɴᴇʀ : [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)
 """,
             reply_markup=home_keyboard_pm,
         )
