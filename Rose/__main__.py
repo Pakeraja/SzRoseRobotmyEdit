@@ -276,13 +276,13 @@ async def startcq(client,CallbackQuery, _):
         served_users.append(int(user["bot_users"]))
     await CallbackQuery.message.edit(
             text=f"""
-👋 Hey there {CallbackQuery.from_user.mention}, 
+👋 ʜᴇʏ ᴛʜᴇʀᴇ {CallbackQuery.from_user.mention}, 
 
-   My name is Rose ,an  advanced telegram Group management Bot For help 
-You Protect Your Groups & Suit For All Your Needs. 
-I currently manage about `{len(served_chats)}` groups.I have over `{len(served_users)}` users
+   ᴍʏ ɴᴀᴍᴇ ɪs ʙʜᴀɴᴜᴍᴀᴛʜɪ 💃 ,ɪᴀᴍ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ʜᴇʟᴘ
+ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘs & sᴜɪᴛ ғᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅs
+🙈 ɪ ᴄᴜʀʀᴇɴᴛʟʏ ᴍᴀɴᴀɢᴇ ᴀʙᴏᴜᴛ `{len(served_chats)}` ɢʀᴏᴜᴘs.ɪ ʜᴀᴠᴇ ᴏᴠᴇʀ `{len(served_users)}` ᴜsᴇʀs
 
- ⚒ Send Me /help For Get Commands. 
+ 😌 sᴇɴᴅ ᴍᴇ /help ғᴏʀ ɢᴇᴛ ᴄᴏᴍᴍᴀɴᴅs. 
 😌ᴏᴡɴᴇʀ [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)
 """,
             disable_web_page_preview=True,
@@ -298,7 +298,7 @@ async def help_parser(name, keyboard=None):
 💃  ɪᴀᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 🙋‍♂️ ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏsᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ
 😌 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢs ᴀsᴋ ʜɪᴍ 😌ᴏᴡɴᴇʀ[ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot) 
-have a look at m.
+
 **All commands can be used with the following: / **""",
         keyboard,
     )
