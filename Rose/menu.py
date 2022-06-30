@@ -8,7 +8,7 @@ fbuttons = InlineKeyboardMarkup(
         [
         [
             InlineKeyboardButton(
-                text="🧡sɪᴄᴋᴇʀ ᴘᴀᴄᴋs🧡", url="https://t.me/groot_network"
+                text="🧡sᴛɪᴄᴋᴇʀ ᴘᴀᴄᴋs🧡", url="https://t.me/groot_network"
             ),
             InlineKeyboardButton(
                 text="💚ғᴜɴɴʏ ɢɪғs💚", url="https://t.me/rjbr0"
