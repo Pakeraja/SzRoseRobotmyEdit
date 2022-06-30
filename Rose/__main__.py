@@ -189,8 +189,8 @@ async def start(client, message: Message, _):
    ᴍʏ ɴᴀᴍᴇ ɪs ʙʜᴀɴᴜᴍᴀᴛʜɪ 💃 ,ɪᴀᴍ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ʜᴇʟᴘ ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘs & sᴜɪᴛ ғᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅs. 
 
 🙈 ɪ ᴄᴜʀʀᴇɴᴛʟʏ ᴍᴀɴᴀɢᴇ ᴀʙᴏᴜᴛ `{len(served_chats)}` ɢʀᴏᴜᴘs. ɪ ʜᴀᴠᴇ ᴏᴠᴇʀ `{len(served_users)}` ᴜsᴇʀs
-😌 sᴇɴᴅ ᴍᴇ /help ғᴏʀ ɢᴇᴛ ᴄᴏᴍᴍᴀɴᴅs. 
  
+😌 sᴇɴᴅ ᴍᴇ /help ғᴏʀ ɢᴇᴛ ᴄᴏᴍᴍᴀɴᴅs. 
 🤨 ᴏᴡɴᴇʀ : [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)
 """,
             reply_markup=home_keyboard_pm,
