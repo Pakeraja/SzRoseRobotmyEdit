@@ -297,7 +297,7 @@ async def help_parser(name, keyboard=None):
 **Welcome to help menu**
 💃  ɪᴀᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 🙋‍♂️ ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏsᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ
-😌 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢs ᴀsᴋ ʜɪᴍ 😌ᴏᴡɴᴇʀ[ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot) 
+😌 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢs ᴀsᴋ ʜɪᴍ 😌ᴏᴡɴᴇʀ [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot) 
 
 **All commands can be used with the following: / **""",
         keyboard,
