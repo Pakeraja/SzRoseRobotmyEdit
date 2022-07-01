@@ -50,7 +50,7 @@ and much more.Go ahead and experiment!
 - <code>--underline--</code>: This will show as <u>underline</u> text.
 - <code>`code words`</code>: This will show as <code>code</code> text.
 - <code>||spoiler||</code>: This will show as <spoiler>Spoiler</spoiler> text.
-- <code>[hyperlink](google.com)</code>: This will create a <a href='http://www.supun.ml/'>hyperlink</a> text.
+- <code>[hyperlink](google.com)</code>:
 If you would like to send buttons on the same row, use the :same formatting. EG:
 
 <code>
@@ -60,11 +60,10 @@ If you would like to send buttons on the same row, use the :same formatting. EG:
 </code>
 
 This will show button 1 and 2 on the same line, with 3 underneath.
-Alternatively, check out <a href='http://www.supun.ml/rose.html'>This Web site</a> to generate the button syntax for yoctx.
 
 - [note button](buttonurl://#notename): This syntax will allow you to 
 create a button which links to a note. When clicked, 
-the user will be redirected to Rose's PM to see the note.
+the user will be redirected to Bhanumathi's PM to see the note.
 """
 
 
