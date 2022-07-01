@@ -191,7 +191,7 @@ async def start(client, message: Message, _):
 🙈 ɪ ᴄᴜʀʀᴇɴᴛʟʏ ᴍᴀɴᴀɢᴇ ᴀʙᴏᴜᴛ `{len(served_chats)}` ɢʀᴏᴜᴘs. ɪ ʜᴀᴠᴇ ᴏᴠᴇʀ `{len(served_users)}` ᴜsᴇʀs
  
 😌 sᴇɴᴅ ᴍᴇ /help ғᴏʀ ɢᴇᴛ ᴄᴏᴍᴍᴀɴᴅs. 
-🤨 ᴏᴡɴᴇʀ : [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)
+🤨 ᴏᴡɴᴇʀ: [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)
 """,
             reply_markup=home_keyboard_pm,
         )
@@ -283,7 +283,7 @@ async def startcq(client,CallbackQuery, _):
 🙈 ɪ ᴄᴜʀʀᴇɴᴛʟʏ ᴍᴀɴᴀɢᴇ ᴀʙᴏᴜᴛ `{len(served_chats)}` ɢʀᴏᴜᴘs.ɪ ʜᴀᴠᴇ ᴏᴠᴇʀ `{len(served_users)}` ᴜsᴇʀs
 
 😌 sᴇɴᴅ ᴍᴇ /help ғᴏʀ ɢᴇᴛ ᴄᴏᴍᴍᴀɴᴅs. 
-😌ᴏᴡɴᴇʀ [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)
+😌ᴏᴡɴᴇʀ: [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)
 """,
             disable_web_page_preview=True,
             reply_markup=home_keyboard_pm)
@@ -297,7 +297,7 @@ async def help_parser(name, keyboard=None):
 **Welcome to help menu**
 💃  ɪᴀᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 🙋‍♂️ ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏsᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ
-😌 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢs ᴀsᴋ ʜɪᴍ 😌ᴏᴡɴᴇʀ [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot) 
+😌 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢs ᴀsᴋ ʜɪᴍ 😌ᴏᴡɴᴇʀ: [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot) 
 
 **All commands can be used with the following: / **""",
         keyboard,
@@ -340,7 +340,7 @@ async def help_button(client, query, _):
                 "Here is the help for", HELPABLE[module].__MODULE__
             )
             + HELPABLE[module].__HELP__
-            + "\n😌ᴏᴡɴᴇʀ[ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)"
+            + "\n😌ᴏᴡɴᴇʀ: [ɪᴀᴍ ɢʀᴏᴏᴛ🌱](https://t.me/mynameisgroot)"
         )
         if hasattr(HELPABLE[module], "__helpbtns__"):
                        button = (HELPABLE[module].__helpbtns__) + [[InlineKeyboardButton("« Back", callback_data="bot_commands")]]
