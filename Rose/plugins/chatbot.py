@@ -102,7 +102,7 @@ AI based chatbot allows Bhanumathi to talk and provides a more interactive group
 
 
 **Language Support**
-Rose AI chatbot support almost all languages in world .
+Bhanumathi AI chatbot support almost all languages in world .
 Powered By ; `googletrans==3.1.0a0`
 """
 
