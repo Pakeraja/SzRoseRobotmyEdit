@@ -255,8 +255,8 @@ Tired managing group all timeClose your group at at a given time and open back a
 **Admin Only :**
 - /setnightmode [TIME ZONE] | Start time [see example] | End time [see example]
 Example:
-    /setnightmode Asia/kolkata | 12:00:00 AM | 06:00:00 AM
+    /setnightmode Asia/kolkata | 01:00:00 AM | 05:00:00 AM
     
 Note: remember chat permissions messages,gifs,games,inline,invite will be allowed when opening chat
-*Default settings: Close your group at 12.00 a.m. and open back at 6.00 a.m.(IST)
+*Default settings: Close your group at 01.00 a.m. and open back at 5.00 a.m.(IST)
 """
