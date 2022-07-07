@@ -95,15 +95,15 @@ __HELP__ = """
 Too many mentions.. Cant you manage them all alone..
 Here is the solution
 
-If you are tagged/mentioned in a group where Rose is present
-Rose will notify it to you via private message after enabling tag alerts
+If you are tagged/mentioned in a group where Bhanumathi is present
+Bhanumathi will notify it to you via private message after enabling tag alerts
 
 **Commands**
 - /tagalert `on` : Turn tag alerts on
 - /tagalert `off` : Turn tag alert off
 
 **Example:**
-If you are mentioned in a group Rose will tell you who mentioned you, 
+If you are mentioned in a group Bhanumathi will tell you who mentioned you, 
 message that you are tagged in and which group is that.
 """
     
