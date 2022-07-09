@@ -1,5 +1,5 @@
 {
-    "name": "Telegram group manager rose bot",
+    "name": "🇬𝗥𝗢𝗢𝗧 🇷𝗢𝗦𝗘 🇧𝗢𝗧 ",
     "description": "szrose is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️",
     "repository": "https://github.com/IamGroot321/GrootRoseRobot",
     "logo": "https://telegra.ph/file/38d48fa6ce357927d6d12.jpg",
@@ -37,6 +37,7 @@
         },
         "LOG_GROUP_ID": {
             "description": "For logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
+            "value": "-1001446681008",
             "required": true
         },
         "MONGO_URL": {
@@ -58,6 +59,7 @@
         },
         "COMMAND_PREFIXES": {
             "description": "now you can set custom command handler for rose like : / ! ,",
+            "valve": "/",
             "required": true
         }
     }
