@@ -59,7 +59,7 @@
         },
         "COMMAND_PREFIXES": {
             "description": "now you can set custom command handler for rose like : / ! ,",
-            "valve": "/",
+            "value": "/",
             "required": true
         }
     }
