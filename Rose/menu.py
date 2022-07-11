@@ -19,7 +19,7 @@ fbuttons = InlineKeyboardMarkup(
                 text="💙ᴛᴇʟᴜɢᴜ ɢʀᴏᴜᴘs💙", url="https://t.me/telugulittleworld"
             ),
             InlineKeyboardButton(
-                text="💛ʜᴀᴛᴇʀs💛", url="https://t.me/telugucoders"
+                text="💛ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs💛", url="https://t.me/telugucoders"
             )
         ], 
         [
